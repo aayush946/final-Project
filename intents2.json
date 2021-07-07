@@ -1,0 +1,41 @@
+{"intents": [
+        {"tag": "greeting",
+         "patterns": ["Hi there", "How are you", "Is anyone there?","Hey","Hola", "Hello", "Good day"],
+         "responses": ["Hello, thanks for asking","I am great,what about you?","Good to see you again", "Hi there, how can I help?"],
+         "context": [""]
+        },
+        {"tag": "goodbye",
+         "patterns": ["Bye", "See you later", "Goodbye", "Nice chatting to you, bye", "Till next time"],
+         "responses": ["See you!", "Have a nice day", "Bye! Come back again soon."],
+         "context": [""]
+        },
+        {"tag": "thanks",
+         "patterns": ["Thanks", "Thank you", "That's helpful", "Awesome, thanks", "Thanks for helping me"],
+         "responses": ["Happy to help!", "Any time!", "My pleasure"],
+         "context": [""]
+        },
+        {"tag": "noanswer",
+         "patterns": [],
+         "responses": ["Sorry, can't understand you", "Please give me more info", "Not sure I understand"],
+         "context": [""]
+        },
+        
+        {"tag" : "sad",
+         "patterns" : ["I am really sad today","I feel so lonely","The day was awful and sick","I am so sad that I can't concentrate","I can't express my feelings","Nobody is trying to understand my situation","I am heartbroken and now everything sucks","I just want all of this to be over","This is really hard","I don't know if I can get through this or not","I just feel so sick of all this","I feel powerless and weak","I know I should be happy but I just can't","I have a feeling that no one cares about what I am going through","It's hard and no one is there to support me","I am just too tired to fight anymore","I feel so sorry for her and I can't do anything about it","I feel like I am listening all the sad songs at the same time","I really wish I could do something about it but I am helpless"],
+         "responses":["I feel sorry for you","I understand you","Don't worry,everything will be alright","It happens sometimes","This time will pass","Don't give up hope,life is beautiful","It's ok to feel that way","Hiding your pain is not the answer","I understand what you are feeling and I am here to help you","I will always be there to support you","I think you should do things that makes you happy","I recommend you listen to One Direction, that will definitely lift your mood","I think you should just support for her and that's enough","Always remember that once you get over heartbreak, you become much stronger","What happened?You seem sad","You should stop trying to please who don't care about you"],
+         "context":[""]
+        },
+        {
+        "tag":"happiness",
+          "patterns":["I am so happy right now!!","I really can't control my excitement","I feel so relieved","This is the best day of my    life","I am so lucky","I am really grateful for this moment","I am thrilled","I feel like I am floating","I am so proud of him","I am so happy I am not even exaggerating","I think that if I contain this happiness I might burst","I love that I was the reason for their smile","I am not bragging but I am proud of myself","I just want to put on my favourite dress and dance around the home","I am so happy that I got this chance","I wish I was always this happy","I just want to live my life now and enjoy everything I can","I can't believe this is possible,it all feels like a dream","I can't stop smiling right now","I just want to feel like this forever","I am so glad that I met him","I am really blessed to have her","I feel so happy and alive right now"],
+         "responses" : ["I am glad that you are happy","I am really happy for you","That sounds great","Such a good news","Keep going on","Glad to hear that","oh you sound so happy","What happened?You seem so excited","I am happy that you are taking care of yourself","I feel the same way","I agree with you!!Life should lived at the moment","Exactly!!Life is now","This is so exciting.Maybe you should play a happy song","That's great.Sounds like a party","Really?What is so special about him?","What is special about her?","Sounds like you feel butterflies in your stomach while you are with him","I think you two were destined to meet each other","So happy for you"],
+         "context" : [""]
+        },
+        {
+            "tag":"anger",
+            "patterns":["I am really angry","I am fuming with rage","How can I control my anger?","Such situations make me angry and I lose control","Sometimes I really can't help it and I burst out","I can't control my temper and sometimes I hurt my loved ones","I just can't take it anymore it's so frustrating","I don't know how much longer I can take this it's exhausting","This was supposed to be a good day and it wasn't","I feel so violated","How can someone do something like this to someone?","I don't know how people can be so mean","I just realized that he is such a horrible person","I feel like smashing the windows","I really hope she pays for what she did","I don't know how to control the situation anymore.I am angry and I can't do anything about it","I think I am going to lose it","I know I should have controlled myself but I couldn't","I am still trying to forgive her but sometimes the anger takes control of me"],
+            "responses" : ["Calm down!!Anger is not the solution","Uncontrolled rage can have drastic outcomes","Try to find techniques to control your anger","You should practice breathing exercises","I understand what you are feeling and I will help you","Don't worry,anger can be controlled through proper practices","Just try to control yourself","I completely agree but I don't think that will help","That sounds awful","Please just try to calm down and analyze the situation","Never!!Never let anger take control of you","You should find some healthy anger management measures","Why don't you listen to a melody,it may calm your nerves","Please don't hurt yourself","Maybe you should write about how you feel","I think she will.Don't you worry about that","Trust me,this is not the end.You will get your chance.Stop frustrating and try to be calm"],
+             "context":[""]
+        }
+   ]
+}

@@ -1,0 +1,52 @@
+{
+  "responses": [
+    {
+      "tag": "joy",
+      "response": [
+        "You sound really excited!!I am really happy for you.I think you should share your happiness with everyone and make it more exciting",
+        "I see that you are really happy,love to see you that way.Glad you are happy with your life.",
+        "You should definitely throw a party and celebrate this occassion with your close friends and family.You seem so happy and alive",
+        "You sound so happy.I suggest you either have a self-pampering day or a fun in-house party",
+        "I am glad that you feel happy and excited.Hope this works out for you and you get everything you want.",
+        "I can literally feel your happiness and that is a really good thing.Enjoy the moment and be happy.",
+        "Wonderful!!You are so happy and I feel like you should share this happiness with others."
+      ]
+    },
+    {
+      "tag": "sadness",
+      "response": [
+        "I understand that you are upset and I think you should talk to someone you trust",
+        "You sound sad.Maybe you should listen to some good music or watch a good movie to get relaxed.",
+        "I feel that you are really upset and I think you need to share your problems with someone you trust.",
+        "I am sorry that you feel so sad.I feel that you should concentrate on the good things in your life.",
+        "I get that you are sad and maybe you should cheer yourself with a little bit of self love.Pamper yourself with some good food,music or books.",
+        "I understand your feelings and it is quite normal to feel this way.Just believe that this is not forever.It will pass and everything will be alright again."
+      ]
+    },
+    {
+      "tag" : "anger",
+      "response":[
+        "You seem really mad.Try to calm down and think about happy things. ",
+        "I get that you are really angry and it happens sometimes.But anger is not the solution for anything",
+        "Try to be calm.Anger can make you reckless and you may end up hurting someone",
+        "You are definitely angry and want to burst out but that won't help you.Try to be calm and think this through",
+        "I see that you are quite upset.Try some breathing exercises or soft music to calm your mind",
+        "God!!You seem really angry.I suggest you watch some comedy to calm down and get over your anger",
+        "I am glad that you feel happy and excited.Hope this works out for you and you get everything you want.",
+        "I feel your anger and it's quite understandable.Try to talk to your friends or family and find a way to resolve your issues."
+      ]
+    },
+    {
+      "tag":"fear",
+       "responses" : ["Don't be afraid and face your fear with brave heart",
+         "Take a deep breath,be calm, find a solution to your fear",
+         "Calm down and share your fear with the person you trust the most",
+         "You have to be brave while you are facing difficult times"]
+   },
+   {
+      "tag":"love",
+      "responses" : ["Its wonderful, make love to your loved ones",
+         "Its an amazing feeling to be loved"]
+   }
+  ]
+}
